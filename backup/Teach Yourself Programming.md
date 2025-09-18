@@ -14,7 +14,7 @@ none
 - Reading
 1. C Programming: A Modern Approach (Second Edition), K. N. King, Norton & Co. 2008.
 2. [Dive into Systems](https://diveintosystems.org/)
-3. [2020/2021 video](https://www.youtube.com/@princetoncos217)
+3. [2020/2021 video](https://www.youtube.com/@princetoncos2174)
 - Prerequisites
 Any Introductory CS course maybe ok
 

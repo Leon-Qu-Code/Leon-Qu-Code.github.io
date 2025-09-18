@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杀死那颗火龙果</title><link>https://Leon-Qu-Code.github.io</link><description>靡不有初，鮮克有終</description><copyright>杀死那颗火龙果</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Leon-Qu-Code.github.io</link></image><lastBuildDate>Thu, 18 Sep 2025 16:42:55 +0000</lastBuildDate><managingEditor>杀死那颗火龙果</managingEditor><ttl>60</ttl><webMaster>杀死那颗火龙果</webMaster><item><title>Teach Yourself Programming</title><link>https://Leon-Qu-Code.github.io/post/Teach%20Yourself%20Programming.html</link><description># Some Resources on Study Programming
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杀死那颗火龙果</title><link>https://Leon-Qu-Code.github.io</link><description>靡不有初，鮮克有終</description><copyright>杀死那颗火龙果</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Leon-Qu-Code.github.io</link></image><lastBuildDate>Thu, 18 Sep 2025 16:43:27 +0000</lastBuildDate><managingEditor>杀死那颗火龙果</managingEditor><ttl>60</ttl><webMaster>杀死那颗火龙果</webMaster><item><title>Teach Yourself Programming</title><link>https://Leon-Qu-Code.github.io/post/Teach%20Yourself%20Programming.html</link><description># Some Resources on Study Programming
 ## Introductory CS
 - CS 135 Waterloo [Designing Functional Programs](https://student.cs.uwaterloo.ca/~cs135)
 - 使用函数式编程语言Racket,只需要通过 define, cond, define-struct,lamada,local 即可完成对于编程导论的介绍
@@ -15,7 +15,7 @@ none
 - Reading
 1. C Programming: A Modern Approach (Second Edition), K. N. King, Norton &amp; Co. 2008.
 2. [Dive into Systems](https://diveintosystems.org/)
-3. [2020/2021 video](https://www.youtube.com/@princetoncos217)
+3. [2020/2021 video](https://www.youtube.com/@princetoncos2174)
 - Prerequisites
 Any Introductory CS course maybe ok
 
