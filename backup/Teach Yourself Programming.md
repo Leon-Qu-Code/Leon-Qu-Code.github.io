@@ -4,6 +4,8 @@
 - 使用函数式编程语言Racket,只需要通过 define, cond, define-struct,lamada,local 即可完成对于编程导论的介绍
 - Reading
 1. 基于How to Design Programs的讲义材料值得阅读,2024Fall之后不再公开发布
+- Prerequisites
+none
 
 ## Introduction to Programming Systems
 - COS 217 Princeton [Spring 2025 Vsesion](https://www.cs.princeton.edu/courses/archive/spring25/cos217/info.php)
@@ -11,3 +13,8 @@
 - Reading
 1. C Programming: A Modern Approach (Second Edition), K. N. King, Norton & Co. 2008.
 2. [Dive into Systems](https://diveintosystems.org/)
+- Prerequisites
+Any Introductory CS course maybe ok
+
+## Abstraction and Design in Computation
+- CS 51 Harvard 

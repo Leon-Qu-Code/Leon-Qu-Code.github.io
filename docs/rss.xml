@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杀死那颗火龙果</title><link>https://Leon-Qu-Code.github.io</link><description>靡不有初，鮮克有終</description><copyright>杀死那颗火龙果</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Leon-Qu-Code.github.io</link></image><lastBuildDate>Thu, 18 Sep 2025 16:28:56 +0000</lastBuildDate><managingEditor>杀死那颗火龙果</managingEditor><ttl>60</ttl><webMaster>杀死那颗火龙果</webMaster><item><title>Teach Yourself Programming</title><link>https://Leon-Qu-Code.github.io/post/Teach%20Yourself%20Programming.html</link><description># Some Resources on Study Programming
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杀死那颗火龙果</title><link>https://Leon-Qu-Code.github.io</link><description>靡不有初，鮮克有終</description><copyright>杀死那颗火龙果</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Leon-Qu-Code.github.io</link></image><lastBuildDate>Thu, 18 Sep 2025 16:32:28 +0000</lastBuildDate><managingEditor>杀死那颗火龙果</managingEditor><ttl>60</ttl><webMaster>杀死那颗火龙果</webMaster><item><title>Teach Yourself Programming</title><link>https://Leon-Qu-Code.github.io/post/Teach%20Yourself%20Programming.html</link><description># Some Resources on Study Programming
 ## Introductory CS
 - CS 135 Waterloo [Designing Functional Programs](https://student.cs.uwaterloo.ca/~cs135)
 - 使用函数式编程语言Racket,只需要通过 define, cond, define-struct,lamada,local 即可完成对于编程导论的介绍
 - Reading
 1. 基于How to Design Programs的讲义材料值得阅读,2024Fall之后不再公开发布
+- Prerequisites
+none
 
 ## Introduction to Programming Systems
 - COS 217 Princeton [Spring 2025 Vsesion](https://www.cs.princeton.edu/courses/archive/spring25/cos217/info.php)
@@ -12,4 +14,9 @@
 - Reading
 1. C Programming: A Modern Approach (Second Edition), K. N. King, Norton &amp; Co. 2008.
 2. [Dive into Systems](https://diveintosystems.org/)
+- Prerequisites
+Any Introductory CS course maybe ok
+
+## Abstraction and Design in Computation
+- CS 51 Harvard 
 。</description><guid isPermaLink="true">https://Leon-Qu-Code.github.io/post/Teach%20Yourself%20Programming.html</guid><pubDate>Thu, 18 Sep 2025 15:37:02 +0000</pubDate></item></channel></rss>
