@@ -26,5 +26,8 @@ Any Introductory CS course maybe ok
 2. [Short videos](https://www.youtube.com/playlist?list=PLxA7uoRZbzXlW0XjbtuWow6PmPHe4vU7p)
 
 ## Algorithms and Data Structures
-- CSC 225&226
+- CSC 225&226 Victoria 
+- Reading
+- 自学cpp Savitch, W., and K. Mock. 2016. Absolute C++. Pearson Education.
+-Comprehensive Data Structures and Alg...  
 
