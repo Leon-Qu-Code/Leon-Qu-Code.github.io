@@ -4,6 +4,7 @@
 - 使用函数式编程语言Racket,只需要通过 define, cond, define-struct,lamada,local 即可完成对于编程导论的介绍
 - Reading
 1. 基于How to Design Programs的讲义材料值得阅读,2024Fall之后不再公开发布
+2. [2020 video](https://www.youtube.com/playlist?list=PLEoM_i-3sen_Gc-AAiK3N1HZPW9tlg7zj)
 - Prerequisites
 none
 
@@ -13,6 +14,7 @@ none
 - Reading
 1. C Programming: A Modern Approach (Second Edition), K. N. King, Norton & Co. 2008.
 2. [Dive into Systems](https://diveintosystems.org/)
+3. [2020/2021 video](https://www.youtube.com/@princetoncos217)
 - Prerequisites
 Any Introductory CS course maybe ok
 
@@ -21,4 +23,5 @@ Any Introductory CS course maybe ok
 - 使用Ocaml语言 教导什么是良好编程
 - Reading
 1. [Abstraction and Design In Computation](https://book.cs51.io/)
+2. [Short videos](https://www.youtube.com/playlist?list=PLxA7uoRZbzXlW0XjbtuWow6PmPHe4vU7p)
 
