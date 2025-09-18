@@ -25,3 +25,6 @@ Any Introductory CS course maybe ok
 1. [Abstraction and Design In Computation](https://book.cs51.io/)
 2. [Short videos](https://www.youtube.com/playlist?list=PLxA7uoRZbzXlW0XjbtuWow6PmPHe4vU7p)
 
+## Algorithms and Data Structures
+- CSC 225&226
+
