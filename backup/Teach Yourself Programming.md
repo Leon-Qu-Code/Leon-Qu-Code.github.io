@@ -18,3 +18,7 @@ Any Introductory CS course maybe ok
 
 ## Abstraction and Design in Computation
 - CS 51 Harvard 
+- 使用Ocaml语言 教导什么是良好编程
+- Reading
+1. [Abstraction and Design In Computation](https://book.cs51.io/)
+
